@@ -17,7 +17,7 @@
 // b--;
 // console.log(b);//1
 
-let a=12,b=5;
-b**=2;
-console.log(b);
+// let a=12,b=5;
+// b**=2;
+// console.log(b);
 
